@@ -1,0 +1,11 @@
+c:\users\fnkta\source\repos\BlogWebApi\BlogWebApi\obj\Debug\netcoreapp2.0\BlogWebApi.csprojResolveAssemblyReference.cache
+c:\users\fnkta\source\repos\BlogWebApi\BlogWebApi\obj\Debug\netcoreapp2.0\BlogWebApi.csproj.CoreCompileInputs.cache
+c:\users\fnkta\source\repos\BlogWebApi\BlogWebApi\obj\Debug\netcoreapp2.0\BlogWebApi.AssemblyInfoInputs.cache
+c:\users\fnkta\source\repos\BlogWebApi\BlogWebApi\obj\Debug\netcoreapp2.0\BlogWebApi.AssemblyInfo.cs
+c:\users\fnkta\source\repos\BlogWebApi\BlogWebApi\bin\Debug\netcoreapp2.0\BlogWebApi.deps.json
+c:\users\fnkta\source\repos\BlogWebApi\BlogWebApi\bin\Debug\netcoreapp2.0\BlogWebApi.runtimeconfig.json
+c:\users\fnkta\source\repos\BlogWebApi\BlogWebApi\bin\Debug\netcoreapp2.0\BlogWebApi.runtimeconfig.dev.json
+c:\users\fnkta\source\repos\BlogWebApi\BlogWebApi\bin\Debug\netcoreapp2.0\BlogWebApi.dll
+c:\users\fnkta\source\repos\BlogWebApi\BlogWebApi\bin\Debug\netcoreapp2.0\BlogWebApi.pdb
+c:\users\fnkta\source\repos\BlogWebApi\BlogWebApi\obj\Debug\netcoreapp2.0\BlogWebApi.dll
+c:\users\fnkta\source\repos\BlogWebApi\BlogWebApi\obj\Debug\netcoreapp2.0\BlogWebApi.pdb
